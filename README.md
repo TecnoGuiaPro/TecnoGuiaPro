@@ -110,3 +110,31 @@ Desde la restauración de la movilidad en pacientes con parálisis hasta la visi
 > **"La interfaz cerebro-computadora no es solo medicina; es la expansión del ancho de banda humano. Estamos conectando el pensamiento directamente al silicio."** — *Perspectiva Técnica por TecnoGuíaPro*
 
 [🌐 Leer guía completa en TecnoGuíaPro](https://tecnoguiapro.blogspot.com/2026/03/master-guide-neuralink-n1-chip.html)
+# ☁️ La Biblia de AWS: Guía Técnica de Alto Rendimiento para Infraestructura Cloud
+
+### 📖 Glosario de Infraestructura y Escalabilidad Cloud
+
+* **Amazon EC2 (Elastic Compute Cloud):** Servicio que proporciona capacidad de cómputo segura y ajustable en la nube para gestionar cargas de trabajo variables.
+* **Auto Scaling:** Mecanismo que ajusta automáticamente la cantidad de recursos computacionales para mantener un rendimiento óptimo al menor costo posible.
+* **Amazon S3 (Simple Storage Service):** Arquitectura de almacenamiento de objetos diseñada para ofrecer durabilidad, disponibilidad y escalabilidad ilimitada de datos.
+* **VPC (Virtual Private Cloud):** Entorno de red aislado lógicamente en la nube de AWS donde se definen topologías de red personalizadas.
+* **AWS Lambda:** Servicio de computación sin servidor (serverless) que ejecuta código en respuesta a eventos, eliminando la gestión de infraestructura.
+
+---
+
+## ✅ Capítulo 1: Fundamentos de la Arquitectura AWS
+Analizamos los pilares de una infraestructura robusta. Desde la selección de regiones y zonas de disponibilidad hasta el diseño de sistemas tolerantes a fallos, establecemos las bases para un despliegue profesional a gran escala.
+
+## ✅ Capítulo 2: Optimización de Cómputo y Almacenamiento
+No se trata solo de subir datos a la nube, sino de hacerlo con eficiencia. Desglosamos las familias de instancias EC2 y las clases de almacenamiento de S3 para maximizar el rendimiento por cada dólar invertido en infraestructura.
+
+## ✅ Capítulo 3: Seguridad y Cumplimiento Normativo (IAM)
+La seguridad es la prioridad cero. Exploramos la gestión de identidades y accesos (IAM), la configuración de grupos de seguridad y el cifrado de datos en reposo y en tránsito para proteger los activos digitales de la empresa.
+
+## ✅ Capítulo 4: Automatización y Despliegue Continuo
+El futuro es el Infrastructure as Code (IaC). Evaluamos herramientas como AWS CloudFormation y el SDK de AWS para automatizar el aprovisionamiento de recursos, reduciendo el error humano y acelerando el tiempo de comercialización.
+
+---
+> **"La nube no es solo el servidor de otra persona; es un ecosistema de servicios integrados que permite escalar ideas a nivel global en minutos."** — *Perspectiva Técnica por TecnoGuíaPro*
+
+[🌐 Leer guía técnica completa en TecnoGuíaPro](https://tecnoguiapro.blogspot.com/2026/02/la-biblia-de-aws-guia-tecnica-de-alto.html)
