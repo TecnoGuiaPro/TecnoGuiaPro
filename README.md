@@ -12,7 +12,7 @@ Ingeniero de Sistemas apasionado por la vanguardia tecnológica, el hardware de 
 Me dedico al análisis técnico detallado y a la distribución de conocimiento sobre semiconductores y hardware de próxima generación a través de plataformas como LinkedIn, Quora y Pinterest.
 
 ### 📫 Cómo contactarme
-- **LinkedIn:** [Tu enlace de perfil aquí]
+- **LinkedIn:** [https://www.linkedin.com/in/josé-javier-cañate-sarmiento-a86baa3b8?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - **Web:** [tecnoguiapro.blogspot.com](https://tecnoguiapro.blogspot.com/)
 - **Email:** canatej2@gmail.com
 
