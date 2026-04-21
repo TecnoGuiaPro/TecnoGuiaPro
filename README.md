@@ -250,3 +250,31 @@ Evaluamos la hoja de ruta de los principales fabricantes de chips. Desde la lito
 > **"La optimización del software ha llegado a su límite; el próximo salto en inteligencia artificial depende directamente de la eficiencia de la arquitectura del silicio."** — *Perspectiva Técnica por TecnoGuíaPro*
 
 [🌐 Leer comparativa técnica en TecnoGuíaPro](https://tecnoguiapro.blogspot.com/2026/04/comparateur-technique-darchitectures-ia.html)
+# 💸 Calculadora de Rendimiento GPU: Ingresos por Minería y Cómputo IA
+
+### 📖 Glosario de Rentabilidad de Hardware y Cómputo Distribuido
+
+* **Hash Rate:** Medida de la potencia de procesamiento de una GPU para resolver algoritmos criptográficos o tareas de cómputo intensivo.
+* **Eficiencia Térmica:** Capacidad del sistema de refrigeración para mantener temperaturas estables, evitando el "thermal throttling" que reduce el rendimiento.
+* **Costo por KWh:** Variable crítica que determina la viabilidad económica de mantener hardware de alto rendimiento operando 24/7.
+* **VRAM (Video RAM):** Memoria dedicada de la tarjeta gráfica; esencial para cargar modelos de IA extensos y gestionar texturas de alta resolución.
+* **ROI (Retorno de Inversión):** Tiempo estimado en el que los ingresos generados por el hardware cubren el costo total de adquisición y operación.
+
+---
+
+## ✅ Capítulo 1: Análisis de Hardware para Minería en 2026
+Evaluamos el panorama actual del minado de activos digitales. Analizamos qué arquitecturas de GPU siguen siendo competitivas y cómo la transición hacia algoritmos de prueba de participación (PoS) ha redefinido el mercado de hardware.
+
+## ✅ Capítulo 2: Monetización de Potencia de Cómputo para IA
+Más allá de la minería, la potencia de las GPUs es altamente demandada para el entrenamiento de modelos de lenguaje. Exploramos plataformas de cómputo distribuido donde puedes alquilar tu hardware para proyectos de investigación e IA.
+
+## ✅ Capítulo 3: Cálculo de Margen Operativo y Energía
+No todo es ingreso bruto. Desglosamos cómo calcular el gasto energético real y el impacto del desgaste del hardware en la rentabilidad final, proporcionando una fórmula clara para determinar el beneficio neto.
+
+## ✅ Capítulo 4: Optimización de Voltaje y Undervolting
+La clave del éxito financiero es la eficiencia. Analizamos técnicas de "undervolting" para reducir el consumo eléctrico y la temperatura sin sacrificar el rendimiento, extendiendo la vida útil de tus componentes.
+
+---
+> **"En la economía del silicio, la potencia bruta es importante, pero la eficiencia operativa es lo que determina el éxito a largo plazo."** — *Perspectiva Técnica por TecnoGuíaPro*
+
+[🌐 Leer análisis de rendimiento en TecnoGuíaPro](https://tecnoguiapro.blogspot.com/2026/04/calculateur-de-rendement-gpu-revenus-de.html)
